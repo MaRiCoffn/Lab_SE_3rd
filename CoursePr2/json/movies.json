@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "title": "Брат",
+        "genre": "Криминал",
+        "release_year": 1997,
+        "rating": 9,
+	    "country": "Россия",
+        "poster": "https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/9/0/6/8098609/3287df3358ee135cee73d572f7ae8185.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Ворошиловский стрелок",
+        "genre": "Криминал",
+        "release_year": 1999,
+        "rating": 9,
+	    "country": "Россия",
+        "poster": "https://img51994.pobeda.tv/img/2019-08-12/fmt_125_47_oblozhka-voroshilovskiy-strelok.jpg?covers=1"        
+    },
+    {
+        "id": 3,
+        "title": "Особенности национальной охоты",
+        "genre": "Комедия",
+        "release_year": 1995,
+        "rating": 8,
+	    "country": "Россия",
+        "poster": "https://cdn1.ozone.ru/multimedia/1005932340.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Девятая рота",
+        "genre": "Военный",
+        "release_year": 2005,
+        "rating": 7,
+	    "country": "Россия",
+        "poster": "https://i.pinimg.com/736x/06/cf/97/06cf972c526839d24d07d616dfc353e7.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Каникулы строгого режима",
+        "genre": "Комедия",
+        "release_year": 2009,
+        "rating": 7,
+	    "country": "Россия",
+        "poster": "https://cdn1.ozone.ru/s3/multimedia-v/c600/6642514111.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Груз 200",
+        "genre": "Ужасы",
+        "release_year": 2007,
+        "rating": 7,
+	    "country": "Россия",
+        "poster": "https://i.pinimg.com/736x/9a/8a/d7/9a8ad7efbdcd1c34c67f5ef4f1e7307f--film-poster-cargo.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Приходи на меня посмотреть",
+        "genre": "Мелодрама",
+        "release_year": 2000,
+        "rating": 8,
+	    "country": "Россия",
+        "poster": "https://yandex-images.clstorage.net/52hLiR153/5613e625tWJ/Mfx8qQ7Uc8oIKQa7i_23SDLZPAm3FRiiUe7YAij9G6rQzlF3MB3FsFBu5wqVCzDoLrLBLksF2RIN8ezuIvZFXmGr-W7dxOdZCP7C_Ny94NoizaucI8fKd8bqy5A97lx8FIIde3uXDrlPpu2An0wjf_onkyhalUUIyD3v-b_unUk2I6b6RBTxj8ihASCFOPLffFL8gnAWCa3brcBOLztEZZ7BWL-zHMx7iuhliFxP4ry75966nNUBRF51pP3xrdWF9Gfmf4uYuEtFJ4nggf5wEnncdUj7n4rl2OVGyOSzDSIWCFm4OhvCt4Dmp4JdQyu49q5Ust2VAMKa8mCysa3RgXdr4jSP1P-Mi-9E6Us4et3x27qEfx_LohYhg09k8o3jGwyZ9XXcyDZCJWCGH4diNfpkEz1WVo7OnPmjdnFhEwfxKqW3DZE2h0MvS-6EOvrTctW1hrWXTSVap0HFY_tKYhhGVDB5lsK2D2lsgBxHqD76qx5_XZHIj9J6KPi3alYPv6cv-cMY8YSIKw8tRXZ1mv4TfgW10k1kmu2Ozyo0g-EfCFGxtpLFvM7haQMZiaB2Mu6XeZPSi4UWse6ysutSTP3n7zgDGHoOhiZAoMEy-ll9HPTI8NjOZFMuRocrvAVt2Q5esXFeRT-HIeAJFI8qdXLiHnlbngNDHLpsubXpG8n5IiXxQlkwxgKkhmLNMHAVNBr-CnJaBiJWJ0jN57wAaZIG3nk3n8q3wmosi9lHr_Cwpl3zH5KOhJ087z93a1hPeahte8IdccbCb0_gjTU_1rkU_IKymMLimqoCB2MyCGjRARowO1WEOQ_iIEEYhOrweGQQstiTDodRMa_w-elezLAvqnTGF7gMxWeDoME3P1t33P1APJPL6BqgCI9o9EAh2ExZunWei_8DpqfP38oqtbYrEHKfEojM0PEhcDdo2Yg16qu4ipNxwgxmAO0C-fra9Bn0CvpeBylVYMWJaQ"
+    },
+    {
+        "id": 8,
+        "title": "В августе 44-го",
+        "genre": "Военный",
+        "release_year": 2001,
+        "rating": 8,
+	    "country": "Россия",
+        "poster": "https://www.timeout.ru/wp-content/uploads/kpposters/41381.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Холоп",
+        "genre": "Комедия",
+        "release_year": 2019,
+        "rating": 7,
+	    "country": "Россия",
+        "poster": "https://rosserial.one/uploads/posts/2023-07/thumbs/2019.webp"
+    },
+    {
+        "id": 10,
+        "title": "Последний богатырь",
+        "genre": "Комедия",
+        "release_year": 2017,
+        "rating": 7,
+	    "country": "Россия",
+        "poster": "https://startimg.ru/unsafe/630x900/filters:quality(70)/255630c840a347398dc6c6a52928dfa7/images-image_vertical_15x"
+    },
+    {
+        "id": 11,
+        "title": "Огонь",
+        "genre": "Драма",
+        "release_year": 2020,
+        "rating": 8,
+	    "country": "Россия",
+        "poster": "https://static.kion.ru/content/mts/movies/70013063/posters/VERTICAL_bf139871e5dd16236337c252475f06c9.webp?x=336&y=10&ar=keep"
+    },
+    {
+        "id": 12,
+        "title": "Одна",
+        "genre": "Ужасы",
+        "release_year": 2021,
+        "rating": 5,
+	    "country": "Россия",
+        "poster": "https://sun9-10.userapi.com/impg/ksgqA5xM5q9POkUu4UiM0iJcVyAaZGDmm6TeDg/7mTz-N2sNOw.jpg?size=424x604&quality=95&sign=90c3c4bc71b65fc1c188b01b3b3a0be9&type=album"
+    },
+    {
+        "id": 13,
+        "title": "Стикер",
+        "genre": "Мелодрама",
+        "release_year": 2022,
+        "rating": 5,
+	    "country": "Россия",
+        "poster": "https://sun9-40.userapi.com/impg/t6KdvP3wEVGf9GWget53id9-LAHKGkV8PjqV_w/QLdoiM9Q31I.jpg?size=397x521&quality=95&sign=dc0b8087bee84291cf0cfde7d80d8921&type=album"
+    },
+    {
+        "id": 14,
+        "title": "Игра всерьёз",
+        "genre": "Детектив",
+        "release_year": 1992,
+        "rating": 6,
+	    "country": "Россия",
+        "poster": "https://www.kino-teatr.ru/movie/posters/big/0/4/2640.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Пришелец",
+        "genre": "Научная фантастика",
+        "release_year": 2018,
+        "rating": 5,
+	    "country": "Россия",
+        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/cbc2742f-0c04-478c-a867-d926e19971e3/1920x"
+    },
+    {
+        "id": 16,
+        "title": "Зелёная книга",
+        "genre": "Драма",
+        "release_year": 2018,
+        "rating": 8,
+	    "country": "США",
+        "poster": "https://www.dvddom.ru/wa-data/public/shop/products/34/38/113834/images/308216/308216.750x0.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Достать ножи",
+        "genre": "Детектив",
+        "release_year": 2019,
+        "rating": 7,
+	    "country": "США",
+        "poster": "https://imgbb.ru/frontend/posts/creation/2023-03-03/dmqmvh2kc4tg4qyxrv3mz76r0esvhzw2wgk.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Один дома",
+        "genre": "Комедия",
+        "release_year": 1990,
+        "rating": 8,
+	    "country": "США",
+        "poster": "https://cm.author.today/content/2023/05/11/913f18121a9a4b3490061249421dd16f.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Аватар",
+        "genre": "Научная фантастика",
+        "release_year": 2009,
+        "rating": 9,
+	    "country": "США",
+        "poster": "https://i.pinimg.com/originals/91/f4/47/91f44769f5e133f899f5e0ec5404bb94.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Бойцовский клуб",
+        "genre": "Боевик",
+        "release_year": 1999,
+        "rating": 8,
+	    "country": "США",
+        "poster": "https://sun9-53.userapi.com/impg/wf7_HcUZeRPNZ1bu_A9G2vhAoGxI-emJvuQgfw/CPyq6W5zHX8.jpg?size=300x424&quality=95&sign=4c5df196a91742aeadee1f9a6e8ddf5d&c_uniq_tag=ymI4D8SH_eysW0WforJRHRvyBEtmxYEPOLxzszhGGV0&type=album"
+    },
+    {
+        "id": 21,
+        "title": "Интерстеллар",
+        "genre": "Научная фантастика",
+        "release_year": 2014,
+        "rating": 9,
+	    "country": "США",
+        "poster": "https://i.pinimg.com/474x/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg?nii=t"
+    },
+    {
+        "id": 22,
+        "title": "Зелёная миля",
+        "genre": "Драма",
+        "release_year": 1999,
+        "rating": 9,
+	    "country": "США",
+        "poster": "https://i.pinimg.com/736x/e5/9d/0e/e59d0e67e9da5159780f38aa18d2b59b.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Форрест Гамп",
+        "genre": "Драма",
+        "release_year": 1994,
+        "rating": 8,
+	    "country": "США",
+        "poster": "https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/6/4/3/4162346/622995101653464872.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Лжец, лжец",
+        "genre": "Комедия",
+        "release_year": 1997,
+        "rating": 7,
+	    "country": "США",
+        "poster": "https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/2/5/8/4977852/781082951653464939.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Отпетые мошенницы",
+        "genre": "Комедия",
+        "release_year": 2019,
+        "rating": 6,
+	    "country": "США",
+        "poster": "https://avatars.dzeninfra.ru/get-zen_doc/9428717/pub_643c077575fca230e6990337_643c07bcfb34904a5c5c6577/scale_1200"
+    },
+    {
+        "id": 26,
+        "title": "Очень плохая училка",
+        "genre": "Мелодрама",
+        "release_year": 2011,
+        "rating": 6,
+	    "country": "США",
+        "poster": "https://sun9-40.userapi.com/s/v1/ig2/UGAdGWpqAvBPrH0xm3Za103S3-txSKykf28bOLBxWP4J6xTkqhNLexwzX9cZuqBRnXF6cdJEtWBmMYTuOXSeB60X.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620&from=bu&u=ufXO0Oq87Y5CV0cMZmOmAqjewtF42UWTPyjXNw8pCJI&cs=538x807"
+    },
+    {
+        "id": 27,
+        "title": "Простая просьба",
+        "genre": "Ужасы",
+        "release_year": 2018,
+        "rating": 7,
+	    "country": "США",
+        "poster": "https://i.pinimg.com/736x/ed/f8/91/edf891714a6f6835c23e2849e55cff82.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Тёмная башня",
+        "genre": "Боевик",
+        "release_year": 2017,
+        "rating": 5,
+	    "country": "США",
+        "poster": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/35/Kara_Kule.jpg/440px-Kara_Kule.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Рождество в Пемберли",
+        "genre": "Мелодрама",
+        "release_year": 2018,
+        "rating": 5,
+	    "country": "США",
+        "poster": "https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/6/7/9/8365976/592188331639051971.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Шальная карта",
+        "genre": "Боевик",
+        "release_year": 2014,
+        "rating": 5,
+	    "country": "США",
+        "poster": "https://avatars.mds.yandex.net/i?id=23c1b39de8202722c336e5cd8454ccc7_l-4238926-images-thumbs&n=13"
+    },
+    {
+        "id": 31,
+        "title": "Анора",
+        "genre": "Драма",
+        "release_year": 2024,
+        "rating": 7,
+	    "country": "США",
+        "poster": "https://www.filmjabber.com/posters/7333-movie-poster.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Мистер Бин",
+        "genre": "Комедия",
+        "release_year": 1997,
+        "rating": 9,
+	    "country": "Великобритания",
+        "poster": "https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/4/5/9/8359954/a97a67743b5e203370de646b96e2fe4e.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Дракула",
+        "genre": "Ужасы",
+        "release_year": 1992,
+        "rating": 7,
+	    "country": "Великобритания",
+        "poster": "https://ir-3.ozone.ru/s3/multimedia-5/c700/6737309069.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Разум и чувства",
+        "genre": "Мелодрама",
+        "release_year": 1995,
+        "rating": 8,
+	    "country": "Великобритания",
+        "poster": "https://ir.ozone.ru/s3/multimedia-2/c700/6737710250.jpg"
+    },
+    {
+        "id": 35,
+        "title": "Мальчик в полосатой пижаме",
+        "genre": "Драма",
+        "release_year": 2008,
+        "rating": 9,
+	    "country": "Великобритания",
+        "poster": "https://upload.wikimedia.org/wikipedia/uz/thumb/3/34/Theboyposter.jpg/440px-Theboyposter.jpg"
+    },
+    {
+        "id": 36,
+        "title": "Дневник Бриджит Джонс",
+        "genre": "Комедия",
+        "release_year": 2001,
+        "rating": 7,
+	    "country": "Великобритания",
+        "poster": "https://i.pinimg.com/736x/a3/e1/c3/a3e1c359a9ed625b8d40bfa40a9e863f.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Дориан Грей",
+        "genre": "Ужасы",
+        "release_year": 2009,
+        "rating": 6,
+	    "country": "Великобритания",
+        "poster": "https://www.timeout.ru/wp-content/uploads/kpposters/415663.jpg"
+    },
+    {
+        "id": 38,
+        "title": "Игра в имитацию",
+        "genre": "Военный",
+        "release_year": 2014,
+        "rating": 7,
+	    "country": "Великобритания",
+        "poster": "https://sun9-13.userapi.com/impg/fmngIrq7uY30IfV7KVVxpz0xBy-fAquTvVRHQg/GxuciT_nCS4.jpg?size=566x807&quality=96&sign=9cb4249478889ac1c9bef238001d8283&c_uniq_tag=voNPHrjjhyLY4hR-5Izwa-4yi6G56jBTJU6a7Hl3q_E&type=album"
+    },
+    {
+        "id": 39,
+        "title": "12 лет рабства",
+        "genre": "Драма",
+        "release_year": 2013,
+        "rating": 8,
+	    "country": "Великобритания",
+        "poster": "https://sun9-44.userapi.com/impf/c853524/v853524189/6e8a/1beY5WYEEAY.jpg?size=403x604&quality=96&sign=13fcc225235e91416ece27215ce3d706&c_uniq_tag=BJCmpZJk2_Vdv2dW0TtFzMN9SuSJbouc7RGXbtNyCm0&type=album"
+    },
+    {
+        "id": 40,
+        "title": "Тайный игрок",
+        "genre": "Ужасы",
+        "release_year": 2012,
+        "rating": 5,
+	    "country": "Великобритания",
+        "poster": "https://resizer.mail.ru/p/14eb98ea-5359-5771-b59c-139968bd1eae/AQACxEdOYY53QuCXNoVjqwlYWM9FljXPMADZXOwE68ZCHhp-xUn9mhHRE5itFwhyCltUoo_gbBQf-gqCVlmGbIaJY_Y.jpg"
+    },
+    {
+        "id": 41,
+        "title": "Эмма",
+        "genre": "Комедия",
+        "release_year": 2020,
+        "rating": 7,
+	    "country": "Великобритания",
+        "poster": "https://sun9-19.userapi.com/impg/oDGS3Gkym_rdhaO9iErHOSDBSUKGc8TGlSSG7w/PC88gTFVUJo.jpg?size=477x604&quality=95&sign=290d6c7e189c5f76d038029e377ba486&c_uniq_tag=Xl1ZY_hs1OZUNO-QW2AKY1R6jR1yPernpYjthx6n6Q0&type=album"
+    },
+    {
+        "id": 42,
+        "title": "Красотки в бегах",
+        "genre": "Комедия",
+        "release_year": 2024,
+        "rating": 6,
+	    "country": "Великобритания",
+        "poster": "https://www.justwatch.com/images/poster/311484037/s718/drive-away-dolls.jpg"
+    },
+    {
+        "id": 43,
+        "title": "Прирожденный убийца",
+        "genre": "Криминал",
+        "release_year": 2020,
+        "rating": 5,
+	    "country": "Великобритания",
+        "poster": "https://files.itv.uz/uploads/content/poster/2022/07/04/f17fb782b670f63376a40e940a737907-q-700x1002.jpeg"
+    },
+    {
+        "id": 44,
+        "title": "Хороший лжец",
+        "genre": "Детектив",
+        "release_year": 2019,
+        "rating": 7,
+	    "country": "Великобритания",
+        "poster": "https://sun6-22.userapi.com/impg/iI3BfGRs76MAWwXo57xbSXvgNjQ1H6lLD6NC0g/8ukckVdLSiw.jpg?size=394x604&quality=96&sign=527bd8a433419b1fad44a6d32c184557&type=album"
+    },
+    {
+        "id": 45,
+        "title": "Луна 2112",
+        "genre": "Научная фантастика",
+        "release_year": 2009,
+        "rating": 7,
+	    "country": "Великобритания",
+        "poster": "https://kislorod-lordfilm.ru/wp-content/uploads/2025/01/610x900_4171.jpg"
+    }
+]

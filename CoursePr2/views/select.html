@@ -1,0 +1,162 @@
+<style>
+    body {
+        font-size: 1.2em;
+        font-family: 'Arial', sans-serif;
+        background: linear-gradient(135deg, #9accf3, #cee2f9, #b493c5);
+        background-attachment: fixed; 
+        background-color: #dae4eb;
+    }
+    h1 {
+        font-size: 3em;
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        margin-top: 50px;
+    }
+    p {
+        text-align: center;
+        color: #132835;
+        margin-bottom: 30px;
+        font-size: 1.2em;
+    }
+    form {
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    label {
+        margin-bottom: 0.5em;
+        display: block;
+        font-weight: bold;
+        color: #007acc;
+    }
+    select, button, input[type="radio"] {
+        margin-top: 10px;
+        width: calc(100% - 20px);
+        padding: 10px;
+        border: 1px solid #007acc;
+        border-radius: 4px;
+        background-color: #a9c5f0;
+        color: #000000; 
+        font-size: 1em;
+        transition: border-color 0.3s, background-color 0.3s;
+    }
+    select:focus, button:focus {
+        border-color: #e5f2ff; 
+        background-color: #a9c5f0; 
+        outline: none;
+    }
+    button {
+        background-color: #0055ff; 
+        color: white;
+        font-size: 1.1em;
+        cursor: pointer;
+        border: none;
+        padding: 12px;
+        border-radius: 4px;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+    button:hover {
+        background-color: #ba3fc8; 
+        color: #f9f9fb;
+        transform: scale(1.05);
+    }
+    h3 {
+        margin-top: 20px;
+        color: #007acc; 
+        font-size: 1.5em;
+    }
+    #movies {
+        margin-top: 40px;
+    }
+    table {
+        margin: 20px auto;
+        border-collapse: collapse;
+        width: 80%;
+        background-color: rgba(213, 235, 255, 0.9); 
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    }
+    th, td {
+        border: 1px solid #0971b7; 
+        padding: 12px;
+        text-align: left;
+        font-family: 'Open Sans', sans-serif; 
+        font-size: 1.1em; 
+    }
+    th {
+        background-color: #1752c9; 
+        color: #ffffff; 
+        font-family: 'Montserrat Alternates', sans-serif; 
+        font-size: 1.2em; 
+    }
+    tr:hover {
+        background-color: rgba(250, 254, 255, 0.208); 
+        transition: background-color 0.3s;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Фильмы: гид по киновселенной</h1>
+    <p>Ваш виртуальный путеводитель по бескрайним мирам кино, где каждый фильм — это новая история, ждущая своего зрителя.</p>
+
+    <form id="filterForm" method="get" action="/">
+        <label for="genre">Жанр:</label>
+        <select id="genre" name="genre">
+            <option value="">Все</option>
+            <option value="Комедия">Комедия</option>
+            <option value="Драма">Драма</option>
+            <option value="Криминал">Криминал</option>
+            <option value="Ужасы">Ужасы</option>
+            <option value="Мелодрама">Мелодрама</option>
+            <option value="Военный">Военный</option>
+            <option value="Научная фантастика">Научная фантастика</option>
+            <option value="Боевик">Боевик</option>
+            <option value="Детектив">Детектив</option>
+        </select>
+
+        <label for="year">Год выпуска:</label>
+        <select name="year">
+            <option value="">Все</option>
+            <option value="1990-2000">1990-2000</option>
+            <option value="2000-2010">2000-2010</option>
+            <option value="2010-2024">2010-2024</option>
+        </select>
+
+        <label for="rating">Рейтинг:</label>
+        <select name="rating">
+            <option value="">Все</option>
+            <option value="5-6">5-6</option>
+            <option value="7-8">7-8</option>
+            <option value="9">9</option>
+        </select>
+
+        <label for="country">Страна:</label>
+        <select name="country">
+            <option value="">Все</option>
+            <option value="Россия">Россия</option>
+            <option value="США">США</option>
+            <option value="Великобритания">Великобритания</option>
+        </select>
+
+        <h3>Сортировка по году:</h3>
+        <input type="radio" name="sortYear" value="asc" /> По возрастанию
+        <input type="radio" name="sortYear" value="desc" /> По убыванию
+
+        <h3>Сортировка по рейтингу:</h3>
+        <input type="radio" name="sortRating" value="asc" /> По возрастанию
+        <input type="radio" name="sortRating" value="desc" /> По убыванию
+
+        <button type="submit">Найти фильмы</button>
+    </form>
+
+    <div id="movies">
+        <!--TABLE-->
+    </div>
+</body>
