@@ -1,0 +1,160 @@
+body {
+    background: url(../css/bg_grid.png) repeat;
+    background-color: #edffeb;
+    color: rgb(16, 45, 28);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Центрирование по горизонтали */
+    align-items: flex-start; /* Выровнять по верху */
+    min-height: 100vh; /* Высота на всю страницу */
+}
+
+/* Обертка для контента, чтобы центрировать содержимое */
+.content {
+    width: 80%;
+    max-width: 900px;
+    text-align: center; /* Выровнять все внутри по центру */
+}
+
+/* Заголовки */
+h3 {
+    color: #2e7d32; /* Темно-зеленый для заголовков */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Таблица */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #e0f2f7; /* Пастельно-зеленый фон */
+}
+
+/* Заголовки таблицы */
+th {
+    background-color: #b2dfdb; /* Светлый зеленый */
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    border: 1px solid #a7c7b4;
+}
+
+/* Ячейки таблицы */
+td {
+    padding: 10px;
+    border: 1px solid #a7c7b4;
+    text-align: center;
+}
+
+/* Чередование цветов строк */
+tr:nth-child(odd) {
+    background-color: #CFEFDF;
+}
+tr:nth-child(even) {
+    background-color: #CFE5DF;
+}
+
+/* Ссылки в таблице */
+a {
+    color: #2e7d32;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #388e3c;
+}
+
+/* Кнопки */
+.green {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #81c784; /* Пастельно-зеленый */
+    border: 2px solid #66bb6a;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+.green:hover {
+    background-color: #66bb6a;
+    border-color: #558b2f;
+}
+
+.btn-add {
+    display: inline-block;
+    padding: 12px 24px;
+    margin-top: 20px;
+    background-color: #a8d5ba; /* пастельно-зеленый фон */
+    color: #fff; /* белый текст */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 600;
+    border: 2px solid #7bb89f; /* чуть темнее граница */
+    border-radius: 8px;
+    text-decoration: none; /* убрать подчеркивание, если это ссылка */
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
+}
+.btn-add:hover {
+    background-color: #91c9b0; /* чуть темнее при наведении */
+    border-color: #679e91;
+    box-shadow: 0 6px 10px rgba(0,0,0,0.15);
+}
+
+/* Обертка для формы */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+form input[type="text"],
+form select {
+    width: 250px;
+    padding: 8px 10px;
+    margin: 8px 0;
+    border: 1px solid #66bb6a;
+    border-radius: 6px;
+    background-color: #f0f4c3; /* Светло-зеленый фон для полей */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+form label {
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+form button {
+    margin-top: 20px;
+}
+
+/* Ссылки вне таблицы */
+a.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #81c784;
+    border: 2px solid #66bb6a;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+a.back-link:hover {
+    background-color: #66bb6a;
+    border-color: #558b2f;
+}
