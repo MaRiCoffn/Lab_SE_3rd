@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <title>Личный кабинет</title>
+    <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+    <h1>Личный кабинет пользователя <%= userName %></h1>
+    <h3>Фамилия: <%= lastName %></h3>
+    <nav style="margin-top:20px;">
+        <ul style="list-style:none; padding:0; display:flex; gap:15px;">
+            <li><a href="#">Меню 1</a></li>
+            <li><a href="#">Меню 2</a></li>
+            <li><a href="#">Меню 3</a></li>
+        </ul>
+    </nav>
+    <a href="/logout" class="btn-logout">Выйти</a>
+</body>
+</html>

@@ -1,0 +1,106 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 40px 20px;
+    background-color: #e0f7fa; /* светло-морской */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Заголовки */
+h1, h2, h3 {
+    color: #006064; /* тёмно-морской */
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Обертка для форм и контейнеров */
+form, .container {
+    background-color: #ffffff; /* белая основа */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    margin-bottom: 20px;
+}
+
+/* Поля ввода */
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #b2ebf2; /* пастельно-морской */
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+/* Кнопки */
+button {
+    padding: 12px;
+    margin-top: 15px;
+    background-color: #4dd0e1; /* пастельно-морской */
+    border: 2px solid #26c6da; /* добавляем обводку, цвет чуть темнее фона */
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+/* При наведении — чуть темнее фона и границы */
+button:hover {
+    background-color: #26c6da; /* чуть темнее */
+    border: 2px solid #009fae; /* чуть темнее граница */
+}
+
+/* Класс для кнопки выхода */
+.btn-logout {
+    background-color: #39d8e1; /* пастельно-красный или любой другой пастельный оттенок */
+    border: 2px solid #42ced5; /* чуть темнее для границы */
+    color: #fff;
+}
+
+.btn-logout:hover {
+    background-color: #4fd9ff; /* более насыщенный оттенок при наведении */
+    border: 2px solid #4bc8ea;
+}
+
+/* Ошибки */
+.error {
+    color: #d32f2f; /* красный для ошибок */
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* Ссылки (например, выход) */
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #81d4fa; /* пастельно-морской */
+    color: #004d40; /* тёмно-зелёный для текста */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #4fc3f7; /* чуть темнее */
+}
+
+/* Центрирование всего контента */
+body > * {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
